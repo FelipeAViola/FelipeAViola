@@ -54,6 +54,6 @@ Inglês completo · CCAA / Manutenção de Computadores · CEBRAC
 ## Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeAViola/FelipeAViola/output/github-contribution-grid-snake-dark.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/FelipeAViola/FelipeAViola/output/github-contribution-grid-snake.svg" alt="Animação das contribuições de Felipe no GitHub" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeAViola/FelipeAViola/output/github-contribution-grid-snake-dark.svg?v=2" />
+  <img width="100%" src="https://raw.githubusercontent.com/FelipeAViola/FelipeAViola/output/github-contribution-grid-snake.svg" alt="Animação das contribuições de Felipe no GitHub?v=2" />
 </picture>
